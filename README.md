@@ -1,4 +1,4 @@
-## Hi there, i'm Alex 👋
+# 👋 Bonjour, c'est Alexandre Page !
 
 ### 💻 Software Engineer (Java/Spring & React) | 🤖 ML/AI Engineering | 🚀 Tech & Business Builder
 
@@ -53,9 +53,9 @@ Bienvenue sur mon profil GitHub ! Ingénieur logiciel orienté produit, je combi
 ### 📈 Mon Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=radical&hide_border=true" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandre-page-46b222129&show_icons=true&theme=radical&hide_border=true" alt="Statistiques GitHub" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_PSEUDO&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre-page-46b222129&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -64,10 +64,9 @@ Bienvenue sur mon profil GitHub ! Ingénieur logiciel orienté produit, je combi
 
 Toujours ouvert aux discussions autour du développement **Java/Spring/React**, de l'**entrepreneuriat**, des **SaaS**, et des **cas d'usage IA** :
 
-- 💼 **LinkedIn :** [Votre Nom](https://linkedin.com/in/votre-profil)
-- 🐦 **X (Twitter) :** [@votre_compte](https://twitter.com/votre_compte)
-- 🌐 **Site / Portfolio :** [votre-site.dev](https://votre-site.dev)
-- 📧 **Email :** votre.email@example.com
+- 💼 **LinkedIn :** [Alexandre Page](https://www.linkedin.com/in/alexandre-page-46b222129/)
+<!-- - 🌐 **Site / Portfolio :** [votre-site.dev](https://votre-site.dev) -->
+- 📧 **Email :** alexandre.page.pro@gmail.com
 
 Here are some ideas to get you started:
 
