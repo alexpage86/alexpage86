@@ -53,9 +53,9 @@ Bienvenue sur mon profil GitHub ! Ingénieur logiciel orienté produit, je combi
 ### 📈 Mon Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandre-page-46b222129&show_icons=true&theme=radical&hide_border=true" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexpage86&show_icons=true&theme=radical&hide_border=true" alt="Statistiques GitHub" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre-page-46b222129&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexpage86&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
